@@ -44,5 +44,9 @@
   },
   "dependencies": {
     "tslib": "^2.5.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zgid123/rabbitmq-ts/issues"
+  },
+  "homepage": "https://github.com/zgid123/rabbitmq-ts#readme"
 }
